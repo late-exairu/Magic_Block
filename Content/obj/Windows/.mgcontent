@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/Arial.spritefont</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_black.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_blue.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_darkBlue.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_gray.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_green.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_none.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_orange.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_red.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_violet.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/b_yellow.png</File>
+    <File>D:/xTemp/vs_test/MagicBlock/MagicBlock/Content/gameAreaBG.png</File>
+  </SourceFiles>
+</SourceFileCollection>
